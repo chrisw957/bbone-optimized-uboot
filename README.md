@@ -124,3 +124,6 @@ Index: git/drivers/mmc/omap_hsmmc.c
  
  	start = get_timer(0);
 </pre>
+
+See more of this here:
+http://www.sleepyrobot.com/?p=345
